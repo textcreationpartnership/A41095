@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the Lord Mayor and court of aldermen, at Guild-hall chappel, July the 18th, 1686 by James Fen ...</title>
+            <author>Fen, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41095</idno>
+            <idno type="STC">Wing F673</idno>
+            <idno type="STC">ESTC R32951</idno>
+            <idno type="EEBO-CITATION">12798174</idno>
+            <idno type="OCLC">ocm 12798174</idno>
+            <idno type="VID">94000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41095)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94000)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1034:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the Lord Mayor and court of aldermen, at Guild-hall chappel, July the 18th, 1686 by James Fen ...</title>
+                  <author>Fen, James.</author>
+               </titleStmt>
+               <extent>[6], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Darby, for Jonathon Robinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94000:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd before the LORD MAYOR And Court of Aldermen, AT <hi>G<g ref="char:V">Ʋ</g>ILD—HALL</hi> Chappel, <hi>July</hi> the <hi>18th,</hi> 1686.</p>
+            <p>By <hi>JAMES FEN,</hi> M. A. And Vicar of <hi>Goudhurſt</hi> in <hi>Kent.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Darby,</hi> for <hi>Jonathan Robinſon,</hi> at the Golden Lion in St. <hi>Paul</hi>'s Church-yard, 1686.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94000:2"/>
+            <pb facs="tcp:94000:2"/>
+            <head>TO THE Right Honourable <hi>Sir Robert Geffery,</hi> Lord Mayor of the City of <hi>London,</hi> And to the Court of Aldermen.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THE Controverſial has ſo prevail'd over the Practi<g ref="char:EOLhyphen"/>cal Divinity, that the ge<g ref="char:EOLhyphen"/>nerality of Men are more ſtudious to defend an Opinion, than to live well;
+<pb facs="tcp:94000:3"/> and pleaſe themſelves more in the bare Notion of Religion, than the Practice of it. So that now ſerious Exhortati<g ref="char:EOLhyphen"/>ons to Piety, and to a Religious Life, are become highly neceſſary.</p>
+            <p>Of this Nature is the following Diſ<g ref="char:EOLhyphen"/>courſe; The Deſign whereof is, only to perſwade, that Men would endea<g ref="char:EOLhyphen"/>vour, by an holy Converſation, to a<g ref="char:EOLhyphen"/>dorn the Chriſtian Faith, which in words they diſpute up, and pretend ſo much Zeal for; and that they would manifeſt the Reality of their Belief of another World, by their Victory over this.</p>
+            <pb facs="tcp:94000:3"/>
+            <p>That God would be pleaſed, not only to protect Ye from the Adverſity of this World, but alſo to enable Ye to deſpiſe and live above its Proſperi<g ref="char:EOLhyphen"/>ty; as 'tis the Subject of the Sermon, ſo 'tis of the Prayer of,</p>
+            <closer>
+               <salute>Right Honourable,</salute>
+               <signed>Your moſt humble, and moſt obedient Servant, JAMES FEN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:94000:4"/>
+            <pb n="1" facs="tcp:94000:4"/>
+            <head>A Sermon preach'd before the Lord Mayor at <hi>Guild-hall</hi> Chappel.</head>
+            <epigraph>
+               <bibl>1 JOHN 5. part of the <hi>4th</hi> Verſ.</bibl>
+               <q>—This is the Victory that overcometh the World, even our Faith.</q>
+            </epigraph>
+            <p>NO ſooner was our Saviour come in<g ref="char:EOLhyphen"/>to the World, but the Devil had his Agents ready, either totally to ſtifle the belief of him, or elſe to blaſt the Fruits of that Belief, good Works, and a holy Converſation. Among the latter of theſe were a ſort of Men, who to the profeſſion of Chriſtianity, join'd a Life, which a ſober Heathen would have bluſht at; for be<g ref="char:EOLhyphen"/>ing by the Goſpel freed from the burthenſome Ceremonies of the Law, they thought they had nothing more to do, but to give themſelves over to all manner of Licenciouſneſs, to carry on a free Trade, hold an open Correſpondence with the Vanities of the World, ſerve God and <hi>Mam<g ref="char:EOLhyphen"/>mon</hi> too.</p>
+            <pb n="2" facs="tcp:94000:5"/>
+            <p>They thought that an empty belief of the Joys of Heaven, would at laſt carry them up thither, though in the mean time they minded Earthly Things, glued their Affections to this World, and walk'd in thoſe Ways which lead to the bot<g ref="char:EOLhyphen"/>tomleſs Pit.</p>
+            <p>To ſuch Believers as theſe, who had nothing to diſtinguiſh them from Infidels but the reher<g ref="char:EOLhyphen"/>ſal of their Creed, St. <hi>John</hi> applies himſelf in this Epiſtle, and tells them, That if they do be<g ref="char:EOLhyphen"/>lieve that the Son of God came into the World to ſave Sinners; if they do believe that he has freed them from Miſery, and purchaſed Heaven for them, they muſt then evidence the Truth of this Belief by their Heavenly Converſation, and by living as becometh thoſe, who do in<g ref="char:EOLhyphen"/>deed expect to be partakers of the Glorious Inhe<g ref="char:EOLhyphen"/>ritance of the Saints in Light: Nor muſt they now concern themſelves with the World any farther, than to look upon it as an Enemy, and to fight the good Fight of Faith againſt it. And to ſhew that this is a Thing of Weight and Mo<g ref="char:EOLhyphen"/>ment, and to engage their utmoſt Strength and Policy in this Spiritual Expedition, he uſes words, which imply the beating of the Brain, the ſtretching of the Nerves and Sinews, he
+<pb n="3" facs="tcp:94000:5"/> ſpeaks of Victory and Overcoming.</p>
+            <p>
+               <hi>This is the Victory</hi> (ſays he) <hi>which overcometh the World, even our Faith.</hi>
+            </p>
+            <p>From theſe words we may obſerve;</p>
+            <list>
+               <item>I. What Faith the Goſpel requires; not a No<g ref="char:EOLhyphen"/>tional or Speculative, but an Active, Pra<g ref="char:EOLhyphen"/>ctical Faith, implied in this word <hi>Victory;</hi> which is a thing not to be expected without Induſtry and Action.</item>
+               <item>II. Conſider we the Thing conquer'd; and that is, <hi>the World;</hi> where I ſhall ſhew what is meant in this place by the World, and how Faith overcometh it.</item>
+               <item>III. The Time when we muſt engage againſt the World; and that is expreſt in the Pre<g ref="char:EOLhyphen"/>ſent Tenſe, <hi>Overcometh;</hi> 'tis not enough that we have once oppoſed the World, or do deſign it; but it muſt be our preſent con<g ref="char:EOLhyphen"/>ſtant endeavour, to compleat and maintain the Victory.</item>
+               <pb n="4" facs="tcp:94000:6"/>
+               <item>And laſtly; I ſhall make ſome Reflections upon theſe Particulars, by way of Con<g ref="char:EOLhyphen"/>cluſion.</item>
+            </list>
+            <p>I begin with the Firſt; <hi>viz.</hi> What Faith the Goſpel requires; not a Notional or Speculative, but an Active, Practical Faith, implied in this word <hi>Victory;</hi> Victory being a Thing not to be expected without Induſtry and Action.</p>
+            <p>And therefore 'tis ſad to conſider how Men content and delude themſelves with a mere Hi<g ref="char:EOLhyphen"/>ſtorical belief of the Goſpel, without regard to the Precepts of it, and think they can go an ea<g ref="char:EOLhyphen"/>ſier way to Heaven than what Chriſt has appoin<g ref="char:EOLhyphen"/>ted. They extol and cry up Faith, as if the ve<g ref="char:EOLhyphen"/>ry name of it was ſufficient to carry them into <hi>Abraham</hi>'s Boſom, but in the mean time, ſuffer the Obedience and Work of Faith, to lie gro<g ref="char:EOLhyphen"/>veling in the Duſt, and trampled under Feet. For alas! what is the Faith of too many, but either a bare not denial of thoſe Truths recorded in Scripture concerning the Son of God; or a receiving Chriſt only as a Saviour, without re<g ref="char:EOLhyphen"/>ſpect to him as Lord; or elſe a preſuming upon his Mercy, to pardon the neglect of that Service,
+<pb n="5" facs="tcp:94000:6"/> which they cannot but acknowledg as a moſt reaſonable Tribute for what he has ſuffered and done for Sinners.</p>
+            <p>Thus inſtead of Humility, Patience, Tem<g ref="char:EOLhyphen"/>perance, Charity, Self-denial, ſubduing the World, <hi>&amp;c.</hi> Men lay all their Hopes upon an idle lazy Faith, to the great prejudice and un<g ref="char:EOLhyphen"/>dermining of our Duties, both towards God and Man.</p>
+            <p>But if we look into Scripture, we ſhall meet with ſeveral places which enjoyn Piety and good Works, as Conditions of Salvation altogether as neceſſary and indiſpenſable as Faith is; and if we weigh thoſe very Texts which the <hi>Solifidian</hi> produces in vindication of his Juſtifying Faith, we ſhall find that they imply thoſe Religious Actions which ſuch a Faith obligeth to.</p>
+            <p>For can we believe that Chriſt was ſent from God to be our Redeemer, and our Lord, and not yield that Obedience which is due to him as ſuch, by ſubmitting to his Will, and obſer<g ref="char:EOLhyphen"/>ving all that he has commanded us: For at the Day of Judgment, when Chriſt ſhall ſummon us before his Tribunal, we muſt be judged and ſentenc'd, not only by our Belief, but by our Actions; and not the knowing of our Maſter,
+<pb n="6" facs="tcp:94000:7"/> but the doing of his Will, muſt then plead for us: And therefore our Saviour foretold the Jews, that they would come unto him at the laſt Day with, <hi>Lord, Lord,</hi> in their Mouths, boaſting their Belief and Knowledg, but be<g ref="char:EOLhyphen"/>cauſe he ſhould find their Faith void of Works, he before-hand pronounc'd their Doom; <hi>Depart from me, ye Curſed: for I was an hungred, and ye gave me no Meat; I was thirſty, and ye gave me no Drink: I was a Stranger, and ye took me not in: Naked, and ye clothed me not: Sick, and in Priſon, and ye viſited me not. Therefore depart from me, ye curſed, into everlaſting Fire, prepared for the De<g ref="char:EOLhyphen"/>vil and his Angels.</hi> Mat. 25. 41, 42.</p>
+            <p>So that having briefly put you in mind, that the true Chriſtian Faith reſts not in a bare Specu<g ref="char:EOLhyphen"/>lation, but proceeds to Work and Action, ſtill breathing and reaching after Victory; let us in the next place conſider, what it is that our Faith does overcome; and that is, <hi>the World; this is the Victory that overcomes the World.</hi>
+            </p>
+            <p>And that we may the better underſtand how Faith overcomes the World, let us ſee firſt how the World aſſaults us: It aſſaults us two ways, on the right hand by Proſperity, on the left by Adverſity. Sometimes it draws its Forces into
+<pb n="7" facs="tcp:94000:7"/> open Field, diſplays its bloody Colours, mar<g ref="char:EOLhyphen"/>ches againſt us with the fiery Trial of Affliction, it handles us roughly, ſhakes and gripes us ſevere<g ref="char:EOLhyphen"/>ly: But when by its Threats, and open Hoſtili<g ref="char:EOLhyphen"/>ty, it cann't prevail, it retreats to its Policy, makes uſe of mild and gentle Stratagems, layeth an Ambuſh of its counterfeit Glories, and of<g ref="char:EOLhyphen"/>fers to give us all, if we will fall down and worſhip.</p>
+            <p>But Faith on the other ſide, withſtands the World theſe two ways:
+<list>
+                  <item>1. By patiently ſuffering its Adverſity.</item>
+                  <item>2. By reſiſting and deſpiſing its Proſperity.</item>
+               </list> So that Faith overcometh the World;</p>
+            <p n="1">1. By patiently ſuffering its Adverſity. Ad<g ref="char:EOLhyphen"/>verſity is ſo terrible, ſo dreadful to thoſe, whoſe Hopes are only in this World, that to avoid the ſtroak of it, they willingly undergo the greateſt hardſhip; they riſe up early, and ſit up late; contrive and plod; labour and toyl for more gain and profit, denying themſelves the enjoy<g ref="char:EOLhyphen"/>ment and comfort of what they already have;
+<pb n="8" facs="tcp:94000:8"/> and, in contradiction to our Saviour, take too much thought for to morrow.</p>
+            <p>Nor is this Fear of Adverſity, the Spring and Source of this immoderate and unchriſtian care only, but alſo of that Injuſtice<g ref="char:punc">▪</g> Oppreſſion, Deceit, Perjury, and of all thoſe other Vices which with worldly Men are in ſo great repute; let but the leaſt ſtorm of Adverſity begin to a<g ref="char:EOLhyphen"/>riſe, and preſently, to ſecure themſelves, they venture upon any Sin: and if at laſt the Cloud does overtake and fall upon them, like forlorn Creatures, they deſpond; cauſe their Burden to ſit uneaſy by impatience, and increaſe its weight by ſtrugling under it: Their mean Con<g ref="char:EOLhyphen"/>dition, which is already miſerable, they make more miſerable by diſcontent, which turns that little Bread they have into a Stone, and their few ſmall Fiſhes into Scorpions.</p>
+            <p>Nor do they ſtop at this, but, as the Apoſtle expreſſes it, fight againſt God himſelf, murmuring and repining at his wiſe Providence and Govern<g ref="char:EOLhyphen"/>ment of the World, calling his Goodneſs and Ju<g ref="char:EOLhyphen"/>ſtice into queſtion; oppoſing their own corrupt Deſires to his moſt Sacred Will, accounting any ſtate of Life better than what their Heavenly Fa<g ref="char:EOLhyphen"/>ther knows to be beſt, and is pleaſed to place them in.</p>
+            <pb n="9" facs="tcp:94000:8"/>
+            <p>Thus does the World, through fear of Ad<g ref="char:EOLhyphen"/>verſity and Impatience under it, lead unbe<g ref="char:EOLhyphen"/>lieving and earthly-minded Men into Captivity, and erect its Trophies over them: and no won<g ref="char:EOLhyphen"/>der it ſo eaſily ſubdues them, for, in the Pſal<g ref="char:EOLhyphen"/>miſt's words, <hi>Theſe are the Men who took not God for their ſtrength,</hi> Pſal. 52. 7.</p>
+            <p>And as Infidelity thus yields; ſo on the other ſide, Faith overcometh the World amidſt all its Frowns and croſs Events, by a ſerene ſubmiſ<g ref="char:EOLhyphen"/>ſion to the Divine Will. Faith takes out the Sting of Adverſity; ſweetens its Gall and Worm<g ref="char:EOLhyphen"/>wood; makes its Yoke light and eaſy, by ha<g ref="char:EOLhyphen"/>ving its Eye fixt upon God, whoſe Goodneſs, as at firſt, 'twas pleaſed to make us, ſo ſtill de<g ref="char:EOLhyphen"/>lights to preſerve us; whoſe Wiſdom knows well how to order all Things to the beſt for them that truſt in him; and whoſe Power would never ſuffer any Evil to approach us, unleſs for our greater Good ſome way or other. 'Twas this Faith inſtructed St. <hi>Paul, in whatſoever ſtate there<g ref="char:EOLhyphen"/>with to be content,</hi> and to know how <hi>to want,</hi> as well as <hi>to abound:</hi> For he was perſwaded, <hi>That neither Sword, nor Famine, nor Peſtilence, nor any other thing could ſeparate him from the Love of God;</hi>
+               <pb n="10" facs="tcp:94000:9"/> though he might be deform'd with Poverty, mangled with the Sword, defaced with Sick<g ref="char:EOLhyphen"/>neſs, yet God's Love would own him in the moſt contemptible ſhape or habit; and ſo long as he was God's Favourite, it troubled him not though the World frown'd.</p>
+            <p>Such a Faith, ſuch a Belief in a Deity, ſup<g ref="char:EOLhyphen"/>ported the wiſer ſort of Heathens in their Straits and Difficulties; who readily ſubmitted to the Will of the Great Governour of the World, and repined at nothing that ſeem'd good unto him.</p>
+            <p>The many Examples of this nature, which we meet with among the Ancient Philoſophers, may ſerve to fortify us againſt the greateſt Ad<g ref="char:EOLhyphen"/>verſities, and teach us not to grieve or mur<g ref="char:EOLhyphen"/>mur at God's dealing with us, conſidering we are his Creatures, and his Will the Law we muſt be ruled by.</p>
+            <p>This one Conſideration alone, that God gave us our Being, and therefore we ought to be ſubject to his Government and diſpoſal of us; is enough to engage our Patience under his af<g ref="char:EOLhyphen"/>flicting Hand, who has been pleaſed to place us upon the Stage of this Life, chearfully and obe<g ref="char:EOLhyphen"/>diently
+<pb n="11" facs="tcp:94000:9"/> to act our Part, not diſpute it. This is our Duty as we are Men, as we are Creatures. But then as Chriſtians, as Believers, when we have an Eye to the Recompence of Reward in the Life to come, and begin to recollect with our ſelves that we were made, not only to obey God here, but to enjoy him hereafter; no af<g ref="char:EOLhyphen"/>fliction then can any longer ſeem grievous, which yields ſuch Fruit of Righteouſneſs to them that are exerciſed thereby, as St. <hi>Paul</hi> ſpeaks in his Epiſtle to the <hi>Hebrews,</hi> Heb. 12. 11.</p>
+            <p>Set before ye therefore the glorious Compa<g ref="char:EOLhyphen"/>ny of Prophets and Apoſtles, the noble Army of Martyrs, but above all looking unto Jeſus the Author and Finiſher of our Faith; and ſee how all theſe, for the Joy that vvas before them, endured their Croſs, and ſundry kinds of Death, and are now ſet down upon the Throne at the right Hand of God.</p>
+            <p>When St. <hi>Paul</hi> began to meditate upon the eternal Weight of Glory, preſently his Afflicti<g ref="char:EOLhyphen"/>on vvas but light, 'twas then but for a moment; <hi>Our light Affliction,</hi> ſays he, <hi>which is but for a mo<g ref="char:EOLhyphen"/>ment, works for us a far more exceeding, and an eter<g ref="char:EOLhyphen"/>nal weight of Glory,</hi> 2 Cor. 4. 17.</p>
+            <pb n="12" facs="tcp:94000:10"/>
+            <p>So that however rigid and ſevere the World may be to us novv; unwilling to allot us any Portion here below but mournful <hi>Golgotha,</hi> un<g ref="char:EOLhyphen"/>vvilling to allovv us Property in any Element beſides the Waters of <hi>Marah;</hi> grudging us the very Air vve breath in, unleſs ſo much as may furniſh us vvith Sighs; yet let this Faith and Be<g ref="char:EOLhyphen"/>lief comfort us, <hi>viz.</hi> that there is a Life to come vvill make amends for all our Sorrows here; and vvhen vve ſhall once enter into the promi<g ref="char:EOLhyphen"/>ſed Land, and take poſſeſſion of thoſe vaſt Re<g ref="char:EOLhyphen"/>gions of Bliſs, vve ſhall be for ever out of the reach of any more Storms, taking our Reſt and happy Repoſe upon a calm and ſerene Eternity; vvhere vve ſhall have nothing more to do, but to receive Bleſſings, and ſing Praiſes to the God that gives them.</p>
+            <p>And therefore vvhen the World aſſaults us vvith Adverſity, to force us to ſtoop and yield, Faith on the other hand, teaches and enables us to oppoſe and overcome it by reaſoning thus: Alas! vvhy ſhould vve do any thing unlawful, and ſin againſt our Conſcience, to avoid Poverty, or Trouble, or what Man can do unto us? If the whole World conſpire, it can make us miſe<g ref="char:EOLhyphen"/>rable but for a time; and at laſt it can but take
+<pb n="13" facs="tcp:94000:10"/> away our Life; and when this is done, we ſhall be out of its reach for ever. The Evils of this Life can follow us no farther than the Grave; they can never come near the Soul, to deſtroy the leaſt Ingredient of its happineſs: and ſo long as that is ſafe and well, we are happily pro<g ref="char:EOLhyphen"/>vided for. But if we caſt off the Fear of God, and make him our Enemy, we are undone for e<g ref="char:EOLhyphen"/>ver, for he can puniſh us everlaſtingly.</p>
+            <p>Away therefore all ye vain Cares and Diſcon<g ref="char:EOLhyphen"/>tents at what befalls us here; We will not fear what the World can do unto us, but vve vvill take the ſureſt courſe to ſecure our ſelves from Miſery; We vvill fear God, and ſet him always before us, vvho, after this tranſitory Life is at an end, if vve now diſpleaſe him, can make us miſerable for ever.</p>
+            <p>This is the firſt vvay vvhereby Faith overcom<g ref="char:EOLhyphen"/>eth the World, <hi>viz.</hi> by patiently ſuffering its Ad<g ref="char:EOLhyphen"/>verſity.</p>
+            <p n="2">2. Faith overcometh the World, by reſiſting and deſpiſing its Proſperity.</p>
+            <p>If we conſider the things in themſelves, which furniſh this World for our Delight and Service, we muſt pronounce what once the great Creator
+<pb n="14" facs="tcp:94000:11"/> did of them, <hi>Behold, all very Good.</hi> But alas! by our too much admiring this Goodneſs, we turn it into Vanity; and what was at firſt beſtowed upon us for our Comfort, through our own folly becomes vexation of Spirit: We provoke our Heavenly Father to ſend a Curſe upon his very Bleſſings, whilſt we pay that adoration to them, which is due only to the Giver: God has been pleaſed to become the Author of our Comforts; he has made all things about us uſeful, glorious, and beautiful, to engage our Gratitude, and win our Love to himſelf; but we, ungrateful and unkind, forſake the Maker, and fall in love with his Creatures; ſet them up as our chief End and Happineſs, which ought only to be uſed in way to it.</p>
+            <p>We purſue the Pleaſures and Profits, court the Honours of this World, becauſe we pro<g ref="char:EOLhyphen"/>pound theſe to our ſelves as the greateſt and high<g ref="char:EOLhyphen"/>eſt Good.</p>
+            <p>Upon this Miſtake we are ſo perpetually buſy and reſtleſs, and ſo wholly taken up with the be<g ref="char:EOLhyphen"/>loved Vanities here below, that Heaven, Eternity, and God himſelf, are ſeldom thought on: We ſtudy and contrive, labour and contend for this World, and care not what becomes of us in the
+<pb n="15" facs="tcp:94000:11"/> next, ſo we can but thrive and proſper here.</p>
+            <p>Thus the falſe Beauties and Glories of the World, like Gloworms which ſhine in the dark, having once dazled our Eyes, we follow Sha<g ref="char:EOLhyphen"/>dows for the ſubſtantial Good, and ſtoop to the lure of every Trifle. Like perpetual Inhabitants of theſe lower Regions, we mind things that are only preſent, and live as if we had never heard of Death, or a Life to come.</p>
+            <p>Now the God of this World having blinded our Minds, and holding us faſt bound in theſe Chains of Darkneſs, leads us in triumph, exer<g ref="char:EOLhyphen"/>ciſes a Dominion over us, and begins to com<g ref="char:EOLhyphen"/>mand; to command our Time, ſcarce allowing us a few Minutes for our Devotions: For how often are our Prayers either totally forgotten, or elſe wilfully laid aſide upon the account of a lit<g ref="char:EOLhyphen"/>tle worldly Buſineſs, an idle Viſit, or perhaps ſome worſe Diverſion. And when we do enter into our Cloſet, as our Saviour enjoins us, to per<g ref="char:EOLhyphen"/>form our Religious Duties, the World follows and commands us there too; it commands our Thoughts, bidding them come to this ſinful Ob<g ref="char:EOLhyphen"/>ject, and they come; go to that Vanity, and they go. It takes poſſeſſion of the whole Soul, enga<g ref="char:EOLhyphen"/>ges all that is Spiritual to it ſelf, and affords us no<g ref="char:EOLhyphen"/>thing
+<pb n="16" facs="tcp:94000:12"/> for God but bodily Service, which the Apo<g ref="char:EOLhyphen"/>ſtle tells us profiteth little: we bend indeed the Knee to <hi>God,</hi> but worſhip <hi>Mammon.</hi>
+            </p>
+            <p>This is the deplorable <hi>condition</hi> of earthly-mind<g ref="char:EOLhyphen"/>ed Men, who ſo eagerly covet the Things of this World, that they can reliſh nothing that is hea<g ref="char:EOLhyphen"/>venly: they loath the Celeſtial Manna, the Joys of the heavenly <hi>Canaan,</hi> and will run after the Garlick, the Onions, and the Traſh of <hi>Egypt.</hi>
+            </p>
+            <p>The World has totally ſubdued and conquered them, uſes them as its Slaves and Vaſſals; exacts all their Cares<g ref="char:punc">▪</g> their Induſtry and Affections, as its proper Tribute; and through a ſeeming Para<g ref="char:EOLhyphen"/>diſe, leads them into perpetual Bondage.</p>
+            <p>But now ſee how Faith obtains the Victory, and triumphs over the World, by a pious con<g ref="char:EOLhyphen"/>tempt of all its Glories. It looks through their Paint and Varniſh, and finds them to be but of a fading, periſhing Conſtitution, not worthy we ſhould laviſh out our Thoughts and Deſires upon them.</p>
+            <p>It conſiders Man too, tho Lord of all below, to be but a poor mortal Creature, of a dependent Being, each moment more and more mouldring into Corruption, and haſting into his native Duſt. Upon the belief and conſideration of this, ſee
+<pb n="17" facs="tcp:94000:12"/> what a Note of ignomy <hi>David</hi> ſets upon the worldly Man's Proſperity, he compares it to no<g ref="char:EOLhyphen"/>thing better than to a Dream, and to the Image of things; Pſal. 73. 20. <hi>As a Dream when one a<g ref="char:EOLhyphen"/>waketh; ſo, O Lord, when thou awakeſt thou ſhalt de<g ref="char:EOLhyphen"/>ſpiſe their Image.</hi> Though theſe Men may think themſelves truly happy; yet when Death ſhall ſtir up and awake their Soul, they will then find themſelves naked and poor, and their earthly Poſſeſſions no more able to help them, or ſup<g ref="char:EOLhyphen"/>ply their Wants, than are the imaginary Riches of a Dream.</p>
+            <p>And in <hi>Pſalm</hi> 39. 6. he tells us, That <hi>Man walketh in a vain ſhadow, and diſquieteth himſelf in vain: he heapeth up Riches, and cannot tell who ſhall gather them.</hi> As if he had ſaid, The continual trouble Men put themſelves to, in increaſing their Poſſeſſions, will avail them but little in the end; for they muſt die, and leave what they have hoarded up to they know not who: for they are not ſure what manner of Perſon their Heir may prove, or what may befal him, or who ſhall enjoy their Wealth when they are dead. And therefore 'tis in vain for Mem to break their Reſt, and diſquiet themſelves about Things of ſo great uncertainty; for, ſays the
+<pb n="18" facs="tcp:94000:13"/> Pſalmiſt, <hi>He heapeth up Riches, and cannot tell who ſhall gather them.</hi>
+            </p>
+            <p>Agreeable is this to what our Saviour ſaid to the covetous Man, <hi>Luke 12. 20. Thou Fool, this Night ſhall thy Soul be required of thee; and then whoſe ſhall all theſe things be?</hi> Though Men may flatter themſelves with Proviſions for this World, and Goods laid up for many Years, and bid their Soul take its eaſe, yet one time or other Death will ſeize upon them, and ſtrip them of all they placed their truſt and delight in here.</p>
+            <p>An Inſtance of this we have, <hi>Luke</hi> 16. 24. in the Rich Man, who being in Hell, cried un<g ref="char:EOLhyphen"/>to <hi>Abraham</hi> for a drop of Water; and to ſend to his five Brethren to forwarn them, leſt they alſo come into the ſame place of Torments.</p>
+            <p>Before whilſt he was in this World and fared deliciouſly every day, he had a great Retinue, a great Company of Attendants about him, Friends and Servants at his command, happy he, who could be at his beck and run at his appoint<g ref="char:EOLhyphen"/>ment. But what is the end of this Pomp and Grandeur, we read in the following Verſes; that the Rich Man died, and became deſtitute and forſaken of all his former Attendants; and
+<pb n="19" facs="tcp:94000:13"/> therefore he was fain to cry unto <hi>Abraham,</hi> and himſelf deliver his own Meſſage. Before he had a numerous train of Servants about him; he could then ſay to them, Run and ſpeak to this great Perſon, run and ſpeak to that; but now he has not a Servant at command, not one to ſend to <hi>Abraham,</hi> he is forc'd to ſpeak and cry himſelf; <hi>He</hi> cried, and ſaid, <hi>Father Abraham,</hi> do you <hi>ſend unto my Brethren,</hi> (he is forc'd now to borrow a Meſſenger; do you ſend, <hi>&amp;c.) leſt they come into theſe Torments.</hi>
+            </p>
+            <p>Where now are his Paraſites and Flatterers, his Gueſts that daily feaſted and made merry with him at his Table? Where are his five Bre<g ref="char:EOLhyphen"/>thren now to divert him in his Sorrows, not one of all theſe near him, he's left alone; no Com<g ref="char:EOLhyphen"/>panion beſides his Sins, the bitter remembrance of his falſe Pleaſures, and his grim and frightful Executioners and Tormenters, the Devil and his Angels.</p>
+            <p>In this lamentable Example of this once great and proſperous, but now wretched Man, we may ſee how ſad a thing it is, not to be convinc'd of the Vanity of the World, till 'tis experienc'd in the Flames of Hell.</p>
+            <pb n="20" facs="tcp:94000:14"/>
+            <p>And therefore the Sacred Writers, both of the Old and New Teſtament, inſiſt much upon this Subject, putting us in mind of the inſtability of earthly Things, and inſtructing us to live above them.</p>
+            <p>The Prophet <hi>Eſai</hi> proclaims all Fleſh to be but Graſs, <hi>Chap. 40. 6. Solomon</hi> compares the Com<g ref="char:EOLhyphen"/>forts of the World, to the crackling of Thorns under a Pot, <hi>Eccleſ.</hi> 7. 6. St. <hi>Paul</hi> tells us, That <hi>the Faſhion of the World paſſeth away,</hi> 1 Cor. 7. 31. What we tranſlate <hi>Faſhion,</hi> is in the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and ſignifies a Figure, an Apparition, a Pagean<g ref="char:EOLhyphen"/>try, that makes a little ſhew and is ſoon gone; and therefore he would not have us be too anxi<g ref="char:EOLhyphen"/>ous or ſollicitous for the World, but to uſe it with that indifferency and moderation as if we uſed it not.</p>
+            <p>And having himſelf this mean opinion and low eſteem of the World, he tells us what was his behaviour and carriage towards it; Gal. 6. 14. <hi>The World is crucified unto me,</hi> ſays he, <hi>and I unto the World.</hi> Give me leave briefly to explain theſe Expreſſions: <hi>The World is crucified unto me:</hi> i. e. I bear as great a contempt and hatred to the World, as Men uſually do to thoſe notorious Vil<g ref="char:EOLhyphen"/>lains who are crucified, and whom all good Men
+<pb n="21" facs="tcp:94000:14"/> hate and are aſhamed of: or elſe thus; The World is as loathſom and ignominious a thing to me, as the execrable and noiſom Carcaſe of a Ma<g ref="char:EOLhyphen"/>lefactor hanging upon the Croſs or Gibbet.</p>
+            <p>And then for thoſe other words, <hi>I am crucified unto the World;</hi> they ſignify as much as if he had ſaid As a dead Man is not taken with, or ſenſible of the moſt flattering Objects; ſo all the moſt pleaſant and beautiful things of the World can<g ref="char:EOLhyphen"/>not allure me, I am even as a crucified dead Man in regard of them, and take no notice of them, they are not able to tempt or move me: For when a Servant or a Slave is dead, we have no more power over him; he's gone into another World, and we can no longer command or force him to obey us as before. And therefore when St. <hi>Paul</hi> ſays, <hi>I am crucified unto the World,</hi> his mean<g ref="char:EOLhyphen"/>ing is<g ref="char:punc">▪</g> that now his Converſation is in Heaven, the World has as little dominion over him, as a Maſter has over his crucified departed Servant, who can no longer obey or do him ſervice.</p>
+            <p>Let this in ſhort ſuffice for the Expoſition of this Scripture, <hi>The World is crucified unto me, and I unto the World.</hi>
+            </p>
+            <p>And though the Vanity and Vexation which attends the beſt condition here, be in it ſelf ſuffi<g ref="char:EOLhyphen"/>cient
+<pb n="22" facs="tcp:94000:15"/> to wean us from the World; yet certainly the Hope of Glory, and the Joys of Heaven, muſt much more ſtir up in us a religious diſdain of all that flatters and allures us here: and there<g ref="char:EOLhyphen"/>fore St. <hi>Paul</hi> gives the Reaſon why Believers do not concern or buſy themſelves for the World, <hi>viz.</hi> becauſe they aimed at a Crown of Glory, 1 <hi>Cor.</hi> 9. 25. The ambitious Men of the World, like thoſe in the Olimpick Games, ſtrive for a fading and corruptible; but we, ſays he, for an incorruptible Crown of Glory. And if the Greatneſs of this Crown, and the Comforts of it, are able to raiſe us above the World; St. <hi>Paul</hi> tells us, they are ſo great that they cannot be ut<g ref="char:EOLhyphen"/>tered, they are <hi>unſpeakable,</hi> 2 Cor. 12. 4.</p>
+            <p>Rhetorick uſes to magnify Things, and by Hyperboles, to make them greater than they are; but the greateſt Eloquence comes ſhort in expreſſing the Glories of Heaven: when the A<g ref="char:EOLhyphen"/>poſtle endeavours to ſpeak of them, he's ſtruck with ſilence, <hi>They are Things,</hi> ſays he, <hi>which can<g ref="char:EOLhyphen"/>not be uttered.</hi> And, 2 <hi>Cor.</hi> 9. he ſays, <hi>It cannot enter into the Heart of Man, to conceive the Things which God has prepared for them that love him.</hi> By the Heart in this place, are underſtood the Thoughts and the Deſires.</p>
+            <p n="1">
+               <pb n="23" facs="tcp:94000:15"/>1. As to the Thoughts; though the World be of an immenſe and vaſt greatneſs, yet the Thoughts, in one moment, can run over it all. Suppoſe ten thouſand Worlds, yet we may ima<g ref="char:EOLhyphen"/>gine ten thouſand more, and in an inſtant com<g ref="char:EOLhyphen"/>prehend the Glories of them in our Thoughts: nothing can ſet bounds to our Thoughts and Imaginations; propoſe the greateſt Riches, Plea<g ref="char:EOLhyphen"/>ſures, Honours, yet we can imagine greater ſtill. And then,</p>
+            <p n="2">2. As to our Deſires; give all that is deſira<g ref="char:EOLhyphen"/>ble in the World, yet we can wiſh for and deſire far greater; nothing that is in this World can limit our Deſires. Nevertheleſs, though the Thoughts, and Imaginations, and Deſires of the Heart, be of ſo great power and extent, yet they can never comprehend the Glories of Hea<g ref="char:EOLhyphen"/>ven: for, ſays the Apoſtle, they have not, they cannot enter into the Heart; they are greater than we are able to imagine, they are larger than our Deſires.</p>
+            <p>The Soul in this imperfect ſtate of Fleſh, is too weak to bear that exceeding weight of Glo<g ref="char:EOLhyphen"/>ry that ſhines in Heaven in its full luſtre. If God ſhould let down but one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay of that Glory upon us now, it would not comfort and enligh<g ref="char:EOLhyphen"/>ten,
+<pb n="24" facs="tcp:94000:16"/> but only dazle and aſtoniſh the Beholder: we muſt firſt be received into Heaven, before we can be qualified for the greatneſs of the Joys there.</p>
+            <p>And yet Men live ſo careleſly, ſo little mind or concern themſelves for Heaven, as if the Bleſſings which God has promiſed to beſtow up<g ref="char:EOLhyphen"/>on us there, were not worth the enjoyment, not worth the looking after.</p>
+            <p>But true Believers, when they are tempted to deſire, or to covet the Glories of this World, check thoſe vain Motions, by arguing with themſelves thus: The Glory we expect in Hea<g ref="char:EOLhyphen"/>ven, will out-ſhine all theſe; we will not there<g ref="char:EOLhyphen"/>fore neglect the Joys Above, for any thing that ſeems great or glorious here. 'Tis below us to think upon the World, this is a Subject for a Turk, or Barbarian, and ſuch as know not Chriſt. A Believer has a nobler Theme for his Thoughts to work upon; he's thinking of the Unity of the ever-glorious Trinity; he's medi<g ref="char:EOLhyphen"/>tating upon the Privileges of Angels, who are admitted to ſtand about the Throne; he's me<g ref="char:EOLhyphen"/>ditating upon the Spirits of Juſt Men made per<g ref="char:EOLhyphen"/>fect, and that we alſo ſhall be like them.</p>
+            <pb n="25" facs="tcp:94000:16"/>
+            <p>This is a Subject fit for them who profeſs the Belief of another World, and do indeed look for the bleſſed Hope, and glorious Appearance of the great God, and our Saviour Jeſus Chriſt; as St. <hi>Paul</hi>'s words are in <hi>Titus</hi> 2. 13.</p>
+            <p>I come now to the third general Head of my Text, and that is, The Time when we muſt ſet our ſelves againſt the World, expreſt in the Preſent Tenſe, <hi>Overcometh:</hi> 'Tis not enough that we have once oppoſed the World, or do deſign it, but it muſt be our preſent conſtant endeavour, to compleat and maintain the Victory.</p>
+            <p>He is no true Souldier, who does but begin to prepare for the War, when the Trumpet is ſounding the Retreat: And 'tis too late to arm our ſelves againſt the World, when the time of our Departure is at hand, and the Night come when no one can work; <hi>When,</hi> as <hi>Solomon</hi> ex<g ref="char:EOLhyphen"/>preſſes it, <hi>the Keepers of the Houſe ſhall tremble, and the ſtrong Men ſhall bow themſelves,</hi> Eccleſ. 12. 3. when the vigorous Spirits ſhall be waſted, and nothing left but the dregs of Life; not ſtrength enough to bear up under the Infirmities of de<g ref="char:EOLhyphen"/>crepit Age; or to ſupport us under the ſad Re<g ref="char:EOLhyphen"/>flections upon an ill-ſpent Life, under the hor<g ref="char:EOLhyphen"/>rors
+<pb n="26" facs="tcp:94000:17"/> of dying, and the fearful looking for of Judg<g ref="char:EOLhyphen"/>ment to come.</p>
+            <p>Can we imagine that the ſetled Conqueſt, and undiſturb'd Dominion, which all our Life long the World has had over us, can be caſt off and overthrown, with our faint laſt Breath, with a few ſighs and groans upon our Death-bed? Which very ſighs too, 'tis to be fear'd, proceed not ſo much from a real enmity to the World, as from a grief that we can no longer enjoy the Pleaſures of it, and yield our ſelves its Servants as before.</p>
+            <p>And yet how are the thoughts of this great and neceſſary Victory laid aſide to the very laſt Minutes, as if the pale, gaſtly, frightly looks of a dying Man, could in a moment daunt and put to flight our Spiritual Adverſaries.</p>
+            <p>And therefore St. <hi>Paul</hi> puts us upon another courſe, in order to our Victory over the World; he adviſes us to arm our ſelves betimes, and to ſtand always upon our defence; <hi>Epheſ. 6. 13. Take unto you</hi> (ſays he) <hi>the whole Armour of God, that ye may be able to withſtand in the Evil Day.</hi> In the Evil Day, (<hi>i. e.</hi>) in the dangerous and pe<g ref="char:EOLhyphen"/>rillous time of our whole Life; becauſe the World, all our Life long, continually aſſaults us
+<pb n="27" facs="tcp:94000:17"/> with its Temptations, that we might become its Prey: therefore the Apoſtle gives us ſuch a ſtrict charge to arm our ſelves, and to be always pre<g ref="char:EOLhyphen"/>pared to oppoſe the World.</p>
+            <p>It muſt be our preſent Work and Buſineſs, we muſt not defer or put off this Victory over the World till we come to die: No! 'tis expreſt in the Preſent Tenſe, that Faith overcomes the World now, and is always in Arms againſt it.</p>
+            <p>So that the deſign of the Apoſtle, in exhorting us to take to our ſelves the whole Armour of God, is to inſtruct us, that we ſhould be always prepared, and in continual readineſs to reſiſt the World: and when we ſhall have put on the whole Armour of God, and done what we can to arm our ſelves againſt the World, leſt we ſhould deſpair of victory, our Saviour gives us encouragement from his own conqueſt over the World: John 16. 33. <hi>Be of good chear,</hi> (ſays he) <hi>I have overcome the World:</hi> As if he had ſaid, when I command ye to ſubdue the World, I put ye upon no more than what I have performed my ſelf: And now the Conqueſt can't ſeem impoſſible or difficult to you, ſince I your Leader have ſhewn you the way; I have already over<g ref="char:EOLhyphen"/>come the World, and left it to you but a maim'd Enemy.</p>
+            <pb n="28" facs="tcp:94000:18"/>
+            <p>But beſides all this; if we do but implore Re<g ref="char:EOLhyphen"/>lief from Heaven, and pray unto the Lord of Hoſts to aid our own Endeavours, and to help our Infirmities, he will give us the aſſiſtance of his mighty Spirit, and we ſhall be <hi>more than Con<g ref="char:EOLhyphen"/>querors,</hi> as St. <hi>Paul</hi> ſpeaks <hi>Rom.</hi> 8. 37.</p>
+            <p>He ſays we ſhall be more than Conquerors; <hi>i. e.</hi> we ſhall win a greater Victory, and more renown, than all the ambitious and vain-glori<g ref="char:EOLhyphen"/>ous Men of the World, though they ſubdue Kingdoms; we ſhall merit more true applauſe, than do your hot, fiery, furious Spirits, and in plain terms, murderers of this Age, who upon the leaſt Punctillio, and ſcarce diſcernable Point of Honour, (as they call it) pride themſelves in ſtabbing, wounding, killing one another; who forget their Baptiſmal Vow, of fighting under the Banners of Chriſt, the Prince of Peace and Love, and live as if they had ſolemnly been baptized into the bloody Service of the Devil, who is a murderer from the beginning: ſuch as theſe are but poor unhappy Conquerors, and tri<g ref="char:EOLhyphen"/>umph only in their own ſlavery, and ſubjection to their unruly Paſſions.</p>
+            <p>So that true Believers, who overcome the World, if compared to theſe, may well be ſtiled
+<pb n="29" facs="tcp:94000:18"/> more than Conquerors; their Victory is of a higher nature; they bear about with them in their Bodies, not the Wounds and Marks of their injured and provoked Brother, but the Marks of the Lord Jeſus; their boaſting is, that they have loſt a right Hand, and a right Eye, in the Ser<g ref="char:EOLhyphen"/>vice of Chriſt; that they have overcome the Pride of the World by their Humility; its Luxury, by their Temperance and Sobriety; its Covetouſneſs, by their Liberality; its Malice, Hatred, and Revenge, by their Charity and bro<g ref="char:EOLhyphen"/>therly Love.</p>
+            <p>Such a Victory as this, will make us more than Conquerors, as the Apoſtle's words are; and will be rewarded with Peace of Conſcience through the whole courſe of Life, with Com<g ref="char:EOLhyphen"/>fort in the hour of Death, and with eternal Reſt in Heaven.</p>
+            <p>I come now to a Concluſion, by making ſome Reflections upon the Particulars of my Text.</p>
+            <p>I have put you in mind, that the true Chriſti<g ref="char:EOLhyphen"/>an Faith, is not a bare Notional or Speculative, but an Active, Practical Faith, implied in this word <hi>Victory, &amp;c.</hi>
+            </p>
+            <pb n="30" facs="tcp:94000:19"/>
+            <p>1. That this Faith overcomes the World two ways.</p>
+            <list>
+               <item>1. By patiently ſuffering its Adverſity.</item>
+               <item>2. By reſiſting its Proſperity.</item>
+            </list>
+            <p>III. I have ſpoken concerning the Time when we muſt ſet our ſelves againſt the World, and that is expreſt in the Preſent Tenſe, <hi>Overcometh,</hi> it muſt be our preſent conſtant endeavour to op<g ref="char:EOLhyphen"/>poſe the World.</p>
+            <p>And now, if our Faith muſt be Practical and Active, what remains, but to frame our Lives anſwerable to our Faith; ſeriouſly conſidering what it is we ſay when we rehearſe the Articles of our Creed: Do we not then ſolemnly pro<g ref="char:EOLhyphen"/>feſs, that we believe there is a God who made us, who ſent his Son into the World to redeem us, and at laſt to be our Judg; from whoſe Tri<g ref="char:EOLhyphen"/>bunal we muſt go to the place, either of ever<g ref="char:EOLhyphen"/>laſting Happineſs, or endleſs Miſery.</p>
+            <p>And if we really believe all this, <hi>What manner of Perſons ought we to be, in all holy Converſation and Godlineſs, looking for, and haſtning to the coming of the Day of God?</hi> 2 Pet. 3. 11.</p>
+            <p>St. <hi>John</hi> tells us, in 1 <hi>Epiſt.</hi> 3. 2. that <hi>when Chriſt ſhall appear, we ſhall be like him:</hi> but then
+<pb n="31" facs="tcp:94000:19"/> he adds, <hi>Verſ.</hi> 3. that <hi>every one who has this Hope in him, to be like God, purifies himſelf, even as he is pure:</hi> He muſt keep himſelf from the pollutions of the World, and from all filthineſs of the Fleſh and Spirit.</p>
+            <p>Suppoſe it were poſſible for us to draw aſide this Veil of Fleſh, and take a view of the world<g ref="char:EOLhyphen"/>lings Soul now, as 'tis daily mudling up and down the World, hugging (as it were) each piece of Dunghil, ſaluting every fulſom Object, rowling it ſelf in the Dirt and Mire, Can we imagine ſuch a Soul as this in the leaſt fit for Heaven, where nothing enters in that defiles; fit to aſſociate with thoſe clean Inhabitants above, and to ſtand in the preſence of an holy God? No! St. <hi>James</hi> tells us, That <hi>pure Religion, and undefiled,</hi> which muſt render us acceptable to God, <hi>is to keep our ſelves unſpotted from the World.</hi>
+            </p>
+            <p>And to this end, that we may overcome the World, and live above it, I adviſe unto frequent Meditations upon our Divine Original; that we are deſcended of the Father of Spirits; that we are of the ſame Family with Angels and Arch-Angels, related to the Cherubims, and near al<g ref="char:EOLhyphen"/>lied to the Eternal King: And ſhall we now de<g ref="char:EOLhyphen"/>generate, and ſo live, as if we had no Relati<g ref="char:EOLhyphen"/>ons,
+<pb n="32" facs="tcp:94000:20"/> no Alliance, but, as <hi>Job</hi> ſpeaks, <hi>Corruption for our Father, and the Worm for our Mother, and for our Brother?</hi>
+            </p>
+            <p>So that if we do believe and expect <hi>an Inheri<g ref="char:EOLhyphen"/>tance incorruptible, that fadeth not away, an Houſe not made with Hands eternal in the Heavens; let us ſet our Affections upon thoſe Things Above, and not on Things on the Earth; let our Converſation be in Hea<g ref="char:EOLhyphen"/>ven, from whence we look for the Saviour:</hi> and then the ſame Jeſus, who is now the Author of our Faith, will be the Rewarder of it.</p>
+            <p>Which Rewards, God for his own Mercies, and for his Son's ſake, be pleaſed to beſtow upon us all.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94000:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
